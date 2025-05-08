@@ -5,18 +5,18 @@ coingecko api is used to fetch data using requests.
 # Get started
 Create and activate a virtual environment (recommended):
 
-'python -m venv venv'
+`python -m venv venv`
 
 Install Django and requests libraries:
 
-'pip install django'
-'pip install requests'
+`pip install django`
+`pip install requests`
 
 # Run the Project
 
 **After installing the dependencies, run the server:**
 
-'python manage.py runserver'
+`python manage.py runserver`
 
 
 # Preview
