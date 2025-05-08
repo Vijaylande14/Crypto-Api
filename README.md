@@ -13,7 +13,11 @@ Create and activate a virtual environment (recommended):
 Install Django and requests libraries:
 
 `pip install django`
+
+
 `pip install requests`
+
+
 
 # Run the Project
 
