@@ -3,17 +3,17 @@ This is a django web application for the data related to cryptocurrency.
 coingecko api is used to fetch data using requests.
 
 # Get started
-Create and activate a virtual environment (recommended):
+
+**Create and activate a virtual environment (recommended):**
 
 `python -m venv venv`
 
 
 `venv\Scripts\activate`
 
-Install Django and requests libraries:
+**Install Django and requests libraries:**
 
 `pip install django`
-
 
 `pip install requests`
 
