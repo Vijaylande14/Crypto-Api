@@ -1,5 +1,5 @@
 # django-crypto-api
-This is a django web application for the data related to cryptocurrency. 
+This is a **django web application** for the data related to cryptocurrency. 
 **coingecko api** is used to fetch data using requests.
 
 # Get started
